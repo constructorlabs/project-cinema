@@ -1,7 +1,7 @@
 
 # Project Cinema
 
-We want to create a movie search engine. To power it we will use the [Open Movie Database](http://www.omdbapi.com). It provides access to a huge database of films via an **API**, which stands for** Application Programming Interface**. In short, it is a set of rules and procedures you need to follow to use a remote system.
+We want to create a movie search engine. To power it we will use the [Open Movie Database](http://www.omdbapi.com). It provides access to a huge database of films via an **API**, which stands for **Application Programming Interface**. In short, it is a set of rules and procedures you need to follow to use a remote system.
 
 > Check out this video for some background info on APIs  
 > [https://www.youtube.com/watch?v=s7wmiS2mSXY](https://www.youtube.com/watch?v=s7wmiS2mSXY)
