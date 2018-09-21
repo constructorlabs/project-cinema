@@ -1,9 +1,3 @@
----
-path: "/project-cinema"
-date: "2018-05-28"
-title: "Project cinema"
----
-
 # Project Cinema
 
 We want to create a movie search engine. To power it we will use the [Open Movie Database](http://www.omdbapi.com) API.
