@@ -30,7 +30,7 @@ You should complete as many of the following tasks as you can.
 - [ ] Create a favourites list. It's up to you how you would add items to favourites. You could add a button or otherwise. Display a list of favourites somewhere on your page.
 - [ ] Make the favourites list sortable. Add `up` and `down` buttons to your favourites which on click will move the result in relevant direction
 - [ ] Save favourites locally using `localStorage` so that favourites persist in browser after refresh
-- [ ] Let's create a search preview. It should listen for change events on input events and submit a search request with current query string. Display the search preview results in an absolute positioned container just below the search box.  
+- [ ] Let's create a search preview. It should listen for input events and submit a search request with current query string. Display the search preview results in an absolute positioned container just below the search box.  
 Hint: You may want to kick of the searching after at least 3 characters have been typed.
 
 ## Objectives
